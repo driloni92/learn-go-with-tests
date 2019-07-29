@@ -1,5 +1,14 @@
 {
-    "workbench.colorCustomizations": {
-        "tab.unfocusedActiveBorder": "#fff0"
-    }
+  "workbench.colorCustomizations": {
+    "tab.unfocusedActiveBorder": "#fff0"
+  },
+  "files.exclude": {
+    ".idea/": "explorerExcludedFiles",
+    "*.iml": "explorerExcludedFiles",
+    "_book/": "explorerExcludedFiles",
+    "*.epub": "explorerExcludedFiles",
+    "*.mobi": "explorerExcludedFiles",
+    "*.pdf": "explorerExcludedFiles",
+    "game.db.json": "explorerExcludedFiles"
+  }
 }
